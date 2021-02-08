@@ -1,0 +1,25 @@
+#interface {
+  background-color: rgb(124, 170, 170);
+  width: 800px;
+  border-radius: 0.4em;
+  font-family: "Courier New", Courier, monospace;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  /* align-items: flex-start; */
+  gap: 0.2em;
+}
+
+#output {
+  background-color: white;
+}
+
+button {
+  background-color: rgb(200, 236, 224);
+  width: 150px;
+  margin-top: 10px;
+}
+
+#options {
+  background-color: lightgrey;
+}
